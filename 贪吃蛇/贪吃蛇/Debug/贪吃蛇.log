@@ -1,0 +1,4 @@
+﻿  source.c
+g:\test\贪吃蛇\贪吃蛇\source.c(110): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\test\贪吃蛇\贪吃蛇\source.c(242): warning C4101: “sk0”: 未引用的局部变量
+  贪吃蛇.vcxproj -> G:\TEST\贪吃蛇\Debug\贪吃蛇.exe
